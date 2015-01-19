@@ -1,0 +1,1163 @@
+15:41:35.903 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+15:41:35.906 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+15:41:35.906 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+15:44:28.221 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+15:44:28.223 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+15:44:28.223 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+15:46:49.167 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+15:46:49.169 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+15:46:49.170 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+15:49:46.991 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+15:49:46.993 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+15:49:46.993 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+15:50:09.675 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+15:50:28.365 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+15:50:28.365 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+15:51:34.569 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+15:51:36.837 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+15:51:36.837 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+15:52:04.519 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+15:52:21.902 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+15:52:35.053 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+15:53:23.499 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+15:53:23.501 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+15:53:23.501 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+15:53:23.619 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://1.1.1.1/ttim ,jdbcUsername: 1 ,jdbcPassword: 1
+15:55:32.838 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+15:55:32.840 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+15:55:32.841 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+15:55:32.951 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+15:55:33.266 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+15:55:33.364 [ERROR] [com.mogujie.ares.model.UserModel] - get user info error with reason : com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'ttim.imusers' doesn't exist
+15:55:33.368 [ERROR] [com.mogujie.ares.extend.action.Friendship] - initialize server user info error with reason : 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'ttim.imusers' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) [na:1.7.0_71]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) [na:1.7.0_71]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) [na:1.7.0_71]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) [na:1.7.0_71]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.Util.getInstance(Util.java:386) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1054) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4187) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4119) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2570) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2731) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2815) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2322) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_executeQuery(FilterChainImpl.java:2708) ~[druid-0.2.9.jar:0.2.9]
+	at com.alibaba.druid.filter.FilterEventAdapter.preparedStatement_executeQuery(FilterEventAdapter.java:465) ~[druid-0.2.9.jar:0.2.9]
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_executeQuery(FilterChainImpl.java:2705) ~[druid-0.2.9.jar:0.2.9]
+	at com.alibaba.druid.proxy.jdbc.PreparedStatementProxyImpl.executeQuery(PreparedStatementProxyImpl.java:99) ~[druid-0.2.9.jar:0.2.9]
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.executeQuery(DruidPooledPreparedStatement.java:211) ~[druid-0.2.9.jar:0.2.9]
+	at com.mogujie.ares.model.UserModel.getUserInfo(UserModel.java:115) ~[classes/:na]
+	at com.mogujie.ares.model.UserModel.getUserInfo(UserModel.java:66) ~[classes/:na]
+	at com.mogujie.ares.model.UserModel.getServerUserInfo(UserModel.java:51) ~[classes/:na]
+	at com.mogujie.ares.extend.action.Friendship.<init>(Friendship.java:34) ~[classes/:na]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) [na:1.7.0_71]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) [na:1.7.0_71]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) [na:1.7.0_71]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) [na:1.7.0_71]
+	at java.lang.Class.newInstance(Unknown Source) [na:1.7.0_71]
+	at com.mogujie.ares.extend.ActionHolder.put(ActionHolder.java:88) [classes/:na]
+	at com.mogujie.ares.extend.ActionHolder.put(ActionHolder.java:63) [classes/:na]
+	at com.mogujie.ares.manager.NetworkManager.initDispatcher(NetworkManager.java:135) [classes/:na]
+	at com.mogujie.ares.manager.NetworkManager.init(NetworkManager.java:80) [classes/:na]
+	at com.mogujie.ares.MainServer.initNet(MainServer.java:74) [classes/:na]
+	at com.mogujie.ares.MainServer.bootup(MainServer.java:33) [classes/:na]
+	at com.mogujie.ares.MainServer.main(MainServer.java:99) [classes/:na]
+15:55:33.543 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+15:55:33.546 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:55:35.549 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:55:37.551 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:55:39.553 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:55:41.555 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:55:43.556 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:55:45.558 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:55:47.561 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:55:49.563 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:55:51.565 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:55:53.568 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:55:55.570 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:55:57.571 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:55:59.574 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:56:01.575 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:56:03.576 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:56:05.578 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:56:07.582 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:56:09.584 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:56:11.585 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:56:13.587 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:56:15.590 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:56:17.591 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:56:19.592 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:56:21.594 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:56:23.597 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:56:25.599 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:56:27.611 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:56:29.611 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:56:31.612 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:56:33.614 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:56:35.616 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+15:56:37.617 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:16:41.102 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+16:16:41.104 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+16:16:41.105 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+16:16:41.208 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:16:41.500 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:16:41.603 [ERROR] [com.mogujie.ares.model.UserModel] - get user info error with reason : com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'status' in where clause is ambiguous
+16:16:41.607 [ERROR] [com.mogujie.ares.extend.action.Friendship] - initialize server user info error with reason : 
+com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'status' in where clause is ambiguous
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) [na:1.7.0_71]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) [na:1.7.0_71]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) [na:1.7.0_71]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) [na:1.7.0_71]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.Util.getInstance(Util.java:386) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1041) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4187) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4119) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2570) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2731) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2815) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2322) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_executeQuery(FilterChainImpl.java:2708) ~[druid-0.2.9.jar:0.2.9]
+	at com.alibaba.druid.filter.FilterEventAdapter.preparedStatement_executeQuery(FilterEventAdapter.java:465) ~[druid-0.2.9.jar:0.2.9]
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_executeQuery(FilterChainImpl.java:2705) ~[druid-0.2.9.jar:0.2.9]
+	at com.alibaba.druid.proxy.jdbc.PreparedStatementProxyImpl.executeQuery(PreparedStatementProxyImpl.java:99) ~[druid-0.2.9.jar:0.2.9]
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.executeQuery(DruidPooledPreparedStatement.java:211) ~[druid-0.2.9.jar:0.2.9]
+	at com.mogujie.ares.model.UserModel.getUserInfo(UserModel.java:116) ~[classes/:na]
+	at com.mogujie.ares.model.UserModel.getUserInfo(UserModel.java:67) ~[classes/:na]
+	at com.mogujie.ares.model.UserModel.getServerUserInfo(UserModel.java:52) ~[classes/:na]
+	at com.mogujie.ares.extend.action.Friendship.<init>(Friendship.java:34) ~[classes/:na]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) [na:1.7.0_71]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) [na:1.7.0_71]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) [na:1.7.0_71]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) [na:1.7.0_71]
+	at java.lang.Class.newInstance(Unknown Source) [na:1.7.0_71]
+	at com.mogujie.ares.extend.ActionHolder.put(ActionHolder.java:88) [classes/:na]
+	at com.mogujie.ares.extend.ActionHolder.put(ActionHolder.java:63) [classes/:na]
+	at com.mogujie.ares.manager.NetworkManager.initDispatcher(NetworkManager.java:135) [classes/:na]
+	at com.mogujie.ares.manager.NetworkManager.init(NetworkManager.java:80) [classes/:na]
+	at com.mogujie.ares.MainServer.initNet(MainServer.java:74) [classes/:na]
+	at com.mogujie.ares.MainServer.bootup(MainServer.java:33) [classes/:na]
+	at com.mogujie.ares.MainServer.main(MainServer.java:99) [classes/:na]
+16:16:41.677 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+16:16:41.680 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:16:43.681 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:16:45.682 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:16:47.684 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:16:49.686 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:16:51.689 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:16:53.691 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:16:55.692 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:16:57.693 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:16:59.695 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:17:01.695 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:17:03.697 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:17:05.700 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:17:07.702 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:17:09.704 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:17:11.705 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:17:13.707 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:17:15.708 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:17:25.703 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+16:17:25.705 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+16:17:25.705 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+16:17:25.815 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:17:26.098 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:17:26.186 [ERROR] [com.mogujie.ares.MainServer] - 
+java.lang.IllegalArgumentException: can't initialize server user info
+	at com.mogujie.ares.extend.action.Friendship.<init>(Friendship.java:36) ~[classes/:na]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:1.7.0_71]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[na:1.7.0_71]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[na:1.7.0_71]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[na:1.7.0_71]
+	at java.lang.Class.newInstance(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.extend.ActionHolder.put(ActionHolder.java:88) ~[classes/:na]
+	at com.mogujie.ares.extend.ActionHolder.put(ActionHolder.java:63) ~[classes/:na]
+	at com.mogujie.ares.manager.NetworkManager.initDispatcher(NetworkManager.java:135) ~[classes/:na]
+	at com.mogujie.ares.manager.NetworkManager.init(NetworkManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.MainServer.initNet(MainServer.java:74) [classes/:na]
+	at com.mogujie.ares.MainServer.bootup(MainServer.java:33) [classes/:na]
+	at com.mogujie.ares.MainServer.main(MainServer.java:99) [classes/:na]
+16:17:45.666 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+16:17:45.668 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+16:17:45.668 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+16:17:45.772 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:17:46.060 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:17:46.192 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+16:17:46.199 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:17:48.200 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:17:50.202 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:17:52.204 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:17:54.205 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:17:56.207 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:17:58.210 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:00.212 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:02.215 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:04.217 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:06.218 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:08.219 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:10.220 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:12.222 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:14.224 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:16.226 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:18.228 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:20.228 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:22.229 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:24.232 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:26.234 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:28.236 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:30.239 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:32.241 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:34.243 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:36.245 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:38.247 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:40.250 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:42.251 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:44.253 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:46.255 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:48.258 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:50.260 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:52.261 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:54.262 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:56.264 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:18:58.269 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:19:00.271 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:19:02.273 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:19:04.276 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:19:06.278 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:19:08.282 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:19:10.284 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:19:12.285 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:19:14.286 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:19:16.288 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:19:18.295 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:19:20.297 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:19:22.313 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:19:24.315 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:19:26.316 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:19:28.318 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:19:30.320 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:19:32.323 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:19:41.357 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+16:19:44.139 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+16:19:53.509 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+16:20:00.645 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:20:00.950 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:20:01.109 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+16:20:21.365 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:80) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:262) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:23:02.720 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+16:23:02.722 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+16:23:02.723 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+16:23:02.827 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:23:03.108 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:23:03.246 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+16:23:03.248 [INFO] [com.mogujie.ares.manager.ElegantStopManager] - file path:E:\tmp\.mogutalk_stop11000
+16:23:03.253 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:81) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:263) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:23:05.255 [INFO] [com.mogujie.ares.manager.ElegantStopManager] - file path:E:\tmp\.mogutalk_stop11000
+16:23:05.256 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:81) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:263) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:23:07.258 [INFO] [com.mogujie.ares.manager.ElegantStopManager] - file path:E:\tmp\.mogutalk_stop11000
+16:23:07.259 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:81) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:263) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:23:09.260 [INFO] [com.mogujie.ares.manager.ElegantStopManager] - file path:E:\tmp\.mogutalk_stop11000
+16:23:09.261 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:81) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:263) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:23:11.262 [INFO] [com.mogujie.ares.manager.ElegantStopManager] - file path:E:\tmp\.mogutalk_stop11000
+16:23:11.264 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:81) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:263) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:23:13.266 [INFO] [com.mogujie.ares.manager.ElegantStopManager] - file path:E:\tmp\.mogutalk_stop11000
+16:23:13.267 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:81) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:263) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:23:15.268 [INFO] [com.mogujie.ares.manager.ElegantStopManager] - file path:E:\tmp\.mogutalk_stop11000
+16:23:15.268 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:81) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:263) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:23:17.270 [INFO] [com.mogujie.ares.manager.ElegantStopManager] - file path:E:\tmp\.mogutalk_stop11000
+16:23:17.271 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:81) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:263) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:23:19.272 [INFO] [com.mogujie.ares.manager.ElegantStopManager] - file path:E:\tmp\.mogutalk_stop11000
+16:23:19.273 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:81) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:263) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:23:21.274 [INFO] [com.mogujie.ares.manager.ElegantStopManager] - file path:E:\tmp\.mogutalk_stop11000
+16:23:21.275 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:81) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:263) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:23:23.277 [INFO] [com.mogujie.ares.manager.ElegantStopManager] - file path:E:\tmp\.mogutalk_stop11000
+16:23:23.278 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:81) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:263) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:23:25.278 [INFO] [com.mogujie.ares.manager.ElegantStopManager] - file path:E:\tmp\.mogutalk_stop11000
+16:23:25.279 [ERROR] [com.mogujie.ares.manager.ElegantStopManager] - 
+java.io.IOException: 系统找不到指定的路径。
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method) ~[na:1.7.0_71]
+	at java.io.File.createNewFile(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.manager.ElegantStopManager.isStopCurrentJavaInstance(ElegantStopManager.java:81) ~[classes/:na]
+	at com.mogujie.ares.manager.ElegantStopManager$1.run(ElegantStopManager.java:263) [classes/:na]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+16:23:38.670 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+16:23:38.672 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+16:23:38.673 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+16:23:38.779 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:23:39.064 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:23:39.201 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+16:23:39.203 [INFO] [com.mogujie.ares.manager.ElegantStopManager] - file path:E:\tmp\.mogutalk_stop11000
+16:23:41.204 [INFO] [com.mogujie.ares.manager.ElegantStopManager] - file path:E:\tmp\.mogutalk_stop11000
+16:23:43.205 [INFO] [com.mogujie.ares.manager.ElegantStopManager] - file path:E:\tmp\.mogutalk_stop11000
+16:23:45.207 [INFO] [com.mogujie.ares.manager.ElegantStopManager] - file path:E:\tmp\.mogutalk_stop11000
+16:23:47.208 [INFO] [com.mogujie.ares.manager.ElegantStopManager] - file path:E:\tmp\.mogutalk_stop11000
+16:23:49.209 [INFO] [com.mogujie.ares.manager.ElegantStopManager] - file path:E:\tmp\.mogutalk_stop11000
+16:24:32.031 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+16:24:32.033 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+16:24:32.034 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+16:24:32.144 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:24:32.437 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:24:32.573 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+16:31:07.298 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+16:31:11.969 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+16:31:11.970 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+16:31:12.092 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:31:12.396 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:31:12.561 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+16:34:33.591 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+16:34:33.593 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+16:34:33.594 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+16:34:33.696 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:34:33.996 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:34:34.140 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+16:34:45.945 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:12
+16:38:23.420 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+16:38:23.422 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+16:38:23.422 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+16:38:23.530 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:38:23.831 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:38:23.974 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+16:38:27.989 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:12
+16:39:23.093 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:12
+16:41:39.609 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:12
+16:49:20.566 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:12
+16:54:00.966 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+16:54:00.968 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+16:54:00.969 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+16:54:01.090 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:54:01.410 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:54:01.581 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+16:54:46.614 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:12
+17:00:42.826 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+17:00:42.828 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+17:00:42.828 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+17:00:42.938 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:00:43.240 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:00:43.386 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+17:00:48.561 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+17:00:48.563 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+17:00:48.564 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+17:00:48.678 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:00:49.004 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:00:49.172 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+17:03:19.083 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+17:03:19.085 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+17:03:19.085 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+17:03:19.199 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:03:19.565 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:03:19.743 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+17:05:23.031 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+17:05:23.033 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+17:05:23.033 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+17:05:23.145 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:05:23.443 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:05:23.586 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+17:14:42.913 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+17:14:42.915 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+17:14:42.916 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+17:14:43.024 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:14:43.313 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:14:43.457 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+17:17:45.176 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:12
+17:21:12.679 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+17:21:12.681 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+17:21:12.681 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+17:21:12.797 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:21:13.140 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:21:13.308 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+17:23:14.156 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+17:23:14.160 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+17:23:14.160 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+17:23:14.270 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:23:14.579 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:23:14.730 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+17:23:36.933 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+17:23:36.935 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+17:23:36.936 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+17:23:37.048 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:23:37.367 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:23:37.508 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+17:25:30.301 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:12
+17:26:11.819 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+17:26:11.822 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+17:26:11.822 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+17:26:11.966 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:26:12.341 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:26:12.512 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+17:26:15.772 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:12
+17:26:39.433 [INFO] [com.mogujie.ares.lib.net.FrameBinaryEncoder] - 总包长length:12
+17:27:55.966 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+17:27:55.968 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+17:27:55.969 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+17:27:56.093 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:27:56.401 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:27:56.565 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+17:28:10.291 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:12
+17:28:10.292 [INFO] [com.mogujie.ares.lib.net.FrameBinaryEncoder] - 总包长length:12
+17:29:00.942 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+17:29:00.945 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+17:29:00.945 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+17:29:01.080 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:29:01.441 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:29:01.594 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+17:29:11.326 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:12
+17:32:34.815 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:12
+17:35:14.092 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:12
+17:42:04.700 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:12
+17:42:38.394 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:12
+17:46:59.122 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:12
+17:50:56.325 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+17:50:56.327 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+17:50:56.327 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+17:50:56.469 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:50:56.789 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:50:56.980 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+17:51:00.722 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:12
+17:51:23.160 [INFO] [com.mogujie.ares.extend.action.Login] - login: --pasword:
+17:51:24.559 [ERROR] [com.mogujie.ares.extend.action.Login] - login failed with reason : 
+com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'ttim.imusers' doesn't exist
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:1.7.0_71]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[na:1.7.0_71]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[na:1.7.0_71]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[na:1.7.0_71]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.Util.getInstance(Util.java:386) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1054) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4187) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4119) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2570) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2731) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2815) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2155) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:2322) ~[mysql-connector-java-5.1.25.jar:na]
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_executeQuery(FilterChainImpl.java:2708) ~[druid-0.2.9.jar:0.2.9]
+	at com.alibaba.druid.filter.FilterEventAdapter.preparedStatement_executeQuery(FilterEventAdapter.java:465) ~[druid-0.2.9.jar:0.2.9]
+	at com.alibaba.druid.filter.FilterChainImpl.preparedStatement_executeQuery(FilterChainImpl.java:2705) ~[druid-0.2.9.jar:0.2.9]
+	at com.alibaba.druid.proxy.jdbc.PreparedStatementProxyImpl.executeQuery(PreparedStatementProxyImpl.java:99) ~[druid-0.2.9.jar:0.2.9]
+	at com.alibaba.druid.pool.DruidPooledPreparedStatement.executeQuery(DruidPooledPreparedStatement.java:211) ~[druid-0.2.9.jar:0.2.9]
+	at com.mogujie.ares.model.LoginModel.auth(LoginModel.java:57) ~[classes/:na]
+	at com.mogujie.ares.extend.action.Login.login(Login.java:42) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.extend.ActionContext.invoke(ActionContext.java:99) [classes/:na]
+	at com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher.dispatch(DefaultRequestDispatcher.java:62) [classes/:na]
+	at com.mogujie.ares.lib.net.BinaryMessageHandler.messageReceived(BinaryMessageHandler.java:49) [classes/:na]
+	at org.jboss.netty.channel.SimpleChannelHandler.handleUpstream(SimpleChannelHandler.java:88) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelUpstreamEventRunnable.doRun(ChannelUpstreamEventRunnable.java:43) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelEventRunnable.run(ChannelEventRunnable.java:67) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.OrderedMemoryAwareThreadPoolExecutor$ChildExecutor.run(OrderedMemoryAwareThreadPoolExecutor.java:314) [netty-3.6.6.Final.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.7.0_71]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.7.0_71]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+17:51:24.564 [INFO] [com.mogujie.ares.extend.action.Login] - login error: , 1

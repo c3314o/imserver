@@ -1,0 +1,6 @@
+17:42:48.206 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+17:42:48.206 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+17:42:48.206 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+17:42:48.379 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:42:49.020 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+17:42:49.208 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000

@@ -1,0 +1,463 @@
+15:39:46.995 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+15:39:46.999 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+15:39:47.000 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+15:39:47.107 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+15:39:47.482 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+15:39:47.626 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+15:41:10.114 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:58287 Connected
+15:41:10.114 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:58306 Connected
+15:41:10.131 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+15:41:10.131 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+15:41:10.131 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+15:41:10.131 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+15:41:10.131 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+15:41:10.131 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+15:47:56.955 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+15:47:56.955 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+15:47:56.955 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+15:47:57.065 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+15:47:57.351 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+15:47:57.492 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+15:48:03.518 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:59455 Connected
+15:48:03.518 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:59474 Connected
+15:48:03.535 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+15:48:03.535 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+15:48:03.537 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+15:48:03.537 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+15:48:03.537 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+15:48:03.537 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+15:48:26.304 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:59474 Disconnected
+15:48:26.304 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:59455 Disconnected
+15:49:03.881 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+15:49:03.881 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+15:49:03.881 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+15:49:04.006 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+15:49:04.339 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+15:49:04.496 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+15:49:09.591 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:59667 Connected
+15:49:09.608 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:59686 Connected
+15:49:09.608 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+15:49:09.608 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+15:49:09.608 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+15:49:09.608 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+15:49:09.608 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+15:49:09.608 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+15:53:01.607 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+15:53:01.607 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+15:53:01.607 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+15:53:01.717 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+15:53:01.998 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+15:53:02.133 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+15:53:05.827 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:60217 Connected
+15:53:05.844 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:60237 Connected
+15:53:05.844 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+15:53:05.844 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+15:53:05.844 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+15:53:05.844 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+15:53:05.844 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+15:53:05.844 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+15:53:05.891 [ERROR] [com.mogujie.ares.model.UserModel] - add friend error with reason :java.sql.SQLException: Parameter index out of range (2 > number of parameters, which is 1).
+15:53:05.891 [ERROR] [com.mogujie.ares.model.UserModel] - add friend error with reason :java.sql.SQLException: Parameter index out of range (2 > number of parameters, which is 1).
+15:53:05.923 [ERROR] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - commandId: 14
+java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.extend.ActionContext.invoke(ActionContext.java:99) ~[classes/:na]
+	at com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher.dispatch(DefaultRequestDispatcher.java:62) ~[classes/:na]
+	at com.mogujie.ares.lib.net.BinaryMessageHandler.messageReceived(BinaryMessageHandler.java:49) [classes/:na]
+	at org.jboss.netty.channel.SimpleChannelHandler.handleUpstream(SimpleChannelHandler.java:88) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelUpstreamEventRunnable.doRun(ChannelUpstreamEventRunnable.java:43) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelEventRunnable.run(ChannelEventRunnable.java:67) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.OrderedMemoryAwareThreadPoolExecutor$ChildExecutor.run(OrderedMemoryAwareThreadPoolExecutor.java:314) [netty-3.6.6.Final.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.7.0_71]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.7.0_71]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+Caused by: java.lang.NullPointerException: null
+	at com.mogujie.ares.extend.action.UserAction.bulidBuffer(UserAction.java:237) ~[classes/:na]
+	at com.mogujie.ares.extend.action.UserAction.addAndDelFriend(UserAction.java:166) ~[classes/:na]
+	... 16 common frames omitted
+15:53:05.923 [ERROR] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - commandId: 14
+java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.extend.ActionContext.invoke(ActionContext.java:99) ~[classes/:na]
+	at com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher.dispatch(DefaultRequestDispatcher.java:62) ~[classes/:na]
+	at com.mogujie.ares.lib.net.BinaryMessageHandler.messageReceived(BinaryMessageHandler.java:49) [classes/:na]
+	at org.jboss.netty.channel.SimpleChannelHandler.handleUpstream(SimpleChannelHandler.java:88) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelUpstreamEventRunnable.doRun(ChannelUpstreamEventRunnable.java:43) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelEventRunnable.run(ChannelEventRunnable.java:67) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.OrderedMemoryAwareThreadPoolExecutor$ChildExecutor.run(OrderedMemoryAwareThreadPoolExecutor.java:314) [netty-3.6.6.Final.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.7.0_71]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.7.0_71]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+Caused by: java.lang.NullPointerException: null
+	at com.mogujie.ares.extend.action.UserAction.bulidBuffer(UserAction.java:237) ~[classes/:na]
+	at com.mogujie.ares.extend.action.UserAction.addAndDelFriend(UserAction.java:166) ~[classes/:na]
+	... 16 common frames omitted
+16:10:49.990 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+16:10:49.990 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+16:10:49.990 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+16:10:50.115 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:10:50.428 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:10:50.584 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+16:10:54.464 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:62985 Connected
+16:10:54.464 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:63004 Connected
+16:10:54.480 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+16:10:54.480 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+16:10:54.481 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+16:10:54.481 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+16:10:54.481 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+16:10:54.481 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+16:11:00.034 [ERROR] [com.mogujie.ares.model.UserModel] - add friend error with reason :com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '+values ('906A236B190144FCBC58D7D557633DD7','1','2',0,1420359059987,142035905998' at line 1
+16:11:00.034 [ERROR] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - commandId: 14
+java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.extend.ActionContext.invoke(ActionContext.java:99) ~[classes/:na]
+	at com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher.dispatch(DefaultRequestDispatcher.java:62) ~[classes/:na]
+	at com.mogujie.ares.lib.net.BinaryMessageHandler.messageReceived(BinaryMessageHandler.java:49) [classes/:na]
+	at org.jboss.netty.channel.SimpleChannelHandler.handleUpstream(SimpleChannelHandler.java:88) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelUpstreamEventRunnable.doRun(ChannelUpstreamEventRunnable.java:43) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelEventRunnable.run(ChannelEventRunnable.java:67) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.OrderedMemoryAwareThreadPoolExecutor$ChildExecutor.run(OrderedMemoryAwareThreadPoolExecutor.java:314) [netty-3.6.6.Final.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.7.0_71]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.7.0_71]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+Caused by: java.lang.NullPointerException: null
+	at com.mogujie.ares.extend.action.UserAction.bulidBuffer(UserAction.java:237) ~[classes/:na]
+	at com.mogujie.ares.extend.action.UserAction.addAndDelFriend(UserAction.java:166) ~[classes/:na]
+	... 16 common frames omitted
+16:15:44.445 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+16:15:44.445 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+16:15:44.445 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+16:15:44.554 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:15:44.844 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:15:44.985 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+16:15:51.122 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:63687 Connected
+16:15:51.122 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:63706 Connected
+16:15:51.122 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+16:15:51.122 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+16:15:51.122 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+16:15:51.122 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+16:15:51.122 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+16:15:51.122 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+16:15:51.186 [ERROR] [com.mogujie.ares.model.UserModel] - add friend error with reason :com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'created' at row 1
+16:15:51.186 [ERROR] [com.mogujie.ares.model.UserModel] - add friend error with reason :com.mysql.jdbc.MysqlDataTruncation: Data truncation: Out of range value for column 'created' at row 1
+16:15:51.186 [ERROR] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - commandId: 14
+java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.extend.ActionContext.invoke(ActionContext.java:99) ~[classes/:na]
+	at com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher.dispatch(DefaultRequestDispatcher.java:62) ~[classes/:na]
+	at com.mogujie.ares.lib.net.BinaryMessageHandler.messageReceived(BinaryMessageHandler.java:49) [classes/:na]
+	at org.jboss.netty.channel.SimpleChannelHandler.handleUpstream(SimpleChannelHandler.java:88) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelUpstreamEventRunnable.doRun(ChannelUpstreamEventRunnable.java:43) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelEventRunnable.run(ChannelEventRunnable.java:67) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.OrderedMemoryAwareThreadPoolExecutor$ChildExecutor.run(OrderedMemoryAwareThreadPoolExecutor.java:314) [netty-3.6.6.Final.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.7.0_71]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.7.0_71]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+Caused by: java.lang.NullPointerException: null
+	at com.mogujie.ares.extend.action.UserAction.bulidBuffer(UserAction.java:237) ~[classes/:na]
+	at com.mogujie.ares.extend.action.UserAction.addAndDelFriend(UserAction.java:166) ~[classes/:na]
+	... 16 common frames omitted
+16:15:51.202 [ERROR] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - commandId: 14
+java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.extend.ActionContext.invoke(ActionContext.java:99) ~[classes/:na]
+	at com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher.dispatch(DefaultRequestDispatcher.java:62) ~[classes/:na]
+	at com.mogujie.ares.lib.net.BinaryMessageHandler.messageReceived(BinaryMessageHandler.java:49) [classes/:na]
+	at org.jboss.netty.channel.SimpleChannelHandler.handleUpstream(SimpleChannelHandler.java:88) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelUpstreamEventRunnable.doRun(ChannelUpstreamEventRunnable.java:43) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelEventRunnable.run(ChannelEventRunnable.java:67) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.OrderedMemoryAwareThreadPoolExecutor$ChildExecutor.run(OrderedMemoryAwareThreadPoolExecutor.java:314) [netty-3.6.6.Final.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.7.0_71]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.7.0_71]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+Caused by: java.lang.NullPointerException: null
+	at com.mogujie.ares.extend.action.UserAction.bulidBuffer(UserAction.java:237) ~[classes/:na]
+	at com.mogujie.ares.extend.action.UserAction.addAndDelFriend(UserAction.java:166) ~[classes/:na]
+	... 16 common frames omitted
+16:20:24.897 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:63706 Disconnected
+16:20:24.897 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:63687 Disconnected
+16:20:33.558 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:64362 Connected
+16:20:33.575 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+16:20:33.575 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+16:20:33.575 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+16:20:33.575 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+16:20:33.575 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:64381 Connected
+16:20:33.575 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+16:20:33.575 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+16:20:33.591 [ERROR] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - commandId: 14
+java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.extend.ActionContext.invoke(ActionContext.java:99) ~[classes/:na]
+	at com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher.dispatch(DefaultRequestDispatcher.java:62) ~[classes/:na]
+	at com.mogujie.ares.lib.net.BinaryMessageHandler.messageReceived(BinaryMessageHandler.java:49) [classes/:na]
+	at org.jboss.netty.channel.SimpleChannelHandler.handleUpstream(SimpleChannelHandler.java:88) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelUpstreamEventRunnable.doRun(ChannelUpstreamEventRunnable.java:43) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelEventRunnable.run(ChannelEventRunnable.java:67) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.OrderedMemoryAwareThreadPoolExecutor$ChildExecutor.run(OrderedMemoryAwareThreadPoolExecutor.java:314) [netty-3.6.6.Final.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.7.0_71]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.7.0_71]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+Caused by: java.lang.NullPointerException: null
+	at com.mogujie.ares.extend.action.UserAction.bulidBuffer(UserAction.java:237) ~[classes/:na]
+	at com.mogujie.ares.extend.action.UserAction.addAndDelFriend(UserAction.java:166) ~[classes/:na]
+	... 16 common frames omitted
+16:20:33.607 [ERROR] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - commandId: 14
+java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.extend.ActionContext.invoke(ActionContext.java:99) ~[classes/:na]
+	at com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher.dispatch(DefaultRequestDispatcher.java:62) ~[classes/:na]
+	at com.mogujie.ares.lib.net.BinaryMessageHandler.messageReceived(BinaryMessageHandler.java:49) [classes/:na]
+	at org.jboss.netty.channel.SimpleChannelHandler.handleUpstream(SimpleChannelHandler.java:88) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelUpstreamEventRunnable.doRun(ChannelUpstreamEventRunnable.java:43) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelEventRunnable.run(ChannelEventRunnable.java:67) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.OrderedMemoryAwareThreadPoolExecutor$ChildExecutor.run(OrderedMemoryAwareThreadPoolExecutor.java:314) [netty-3.6.6.Final.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.7.0_71]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.7.0_71]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+Caused by: java.lang.NullPointerException: null
+	at com.mogujie.ares.extend.action.UserAction.bulidBuffer(UserAction.java:237) ~[classes/:na]
+	at com.mogujie.ares.extend.action.UserAction.addAndDelFriend(UserAction.java:166) ~[classes/:na]
+	... 16 common frames omitted
+16:23:40.877 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+16:23:40.877 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+16:23:40.877 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+16:23:41.002 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:23:41.314 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:23:41.470 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+16:26:27.186 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:65240 Connected
+16:26:27.218 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:65259 Connected
+16:26:27.218 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+16:26:27.218 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+16:26:27.218 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+16:26:27.218 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+16:26:33.531 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+16:26:33.634 [ERROR] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - commandId: 14
+java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.extend.ActionContext.invoke(ActionContext.java:99) ~[classes/:na]
+	at com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher.dispatch(DefaultRequestDispatcher.java:62) ~[classes/:na]
+	at com.mogujie.ares.lib.net.BinaryMessageHandler.messageReceived(BinaryMessageHandler.java:49) [classes/:na]
+	at org.jboss.netty.channel.SimpleChannelHandler.handleUpstream(SimpleChannelHandler.java:88) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelUpstreamEventRunnable.doRun(ChannelUpstreamEventRunnable.java:43) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelEventRunnable.run(ChannelEventRunnable.java:67) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.OrderedMemoryAwareThreadPoolExecutor$ChildExecutor.run(OrderedMemoryAwareThreadPoolExecutor.java:314) [netty-3.6.6.Final.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.7.0_71]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.7.0_71]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+Caused by: java.lang.NullPointerException: null
+	at com.mogujie.ares.extend.action.UserAction.bulidBuffer(UserAction.java:237) ~[classes/:na]
+	at com.mogujie.ares.extend.action.UserAction.addAndDelFriend(UserAction.java:166) ~[classes/:na]
+	... 16 common frames omitted
+16:26:46.490 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+16:26:46.522 [ERROR] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - commandId: 14
+java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.extend.ActionContext.invoke(ActionContext.java:99) ~[classes/:na]
+	at com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher.dispatch(DefaultRequestDispatcher.java:62) ~[classes/:na]
+	at com.mogujie.ares.lib.net.BinaryMessageHandler.messageReceived(BinaryMessageHandler.java:49) [classes/:na]
+	at org.jboss.netty.channel.SimpleChannelHandler.handleUpstream(SimpleChannelHandler.java:88) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelUpstreamEventRunnable.doRun(ChannelUpstreamEventRunnable.java:43) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelEventRunnable.run(ChannelEventRunnable.java:67) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.OrderedMemoryAwareThreadPoolExecutor$ChildExecutor.run(OrderedMemoryAwareThreadPoolExecutor.java:314) [netty-3.6.6.Final.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.7.0_71]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.7.0_71]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+Caused by: java.lang.NullPointerException: null
+	at com.mogujie.ares.extend.action.UserAction.bulidBuffer(UserAction.java:237) ~[classes/:na]
+	at com.mogujie.ares.extend.action.UserAction.addAndDelFriend(UserAction.java:166) ~[classes/:na]
+	... 16 common frames omitted
+16:27:02.730 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:65259 Disconnected
+16:27:02.730 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:65240 Disconnected
+16:29:27.158 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+16:29:27.158 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+16:29:27.158 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+16:29:27.283 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:29:27.601 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:29:27.754 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+16:29:40.042 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:49524 Connected
+16:29:40.060 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:49543 Connected
+16:29:40.060 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+16:29:40.060 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+16:29:40.060 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+16:29:40.060 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+16:29:40.060 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+16:29:40.060 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+16:30:05.528 [ERROR] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - commandId: 14
+java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.extend.ActionContext.invoke(ActionContext.java:99) ~[classes/:na]
+	at com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher.dispatch(DefaultRequestDispatcher.java:62) ~[classes/:na]
+	at com.mogujie.ares.lib.net.BinaryMessageHandler.messageReceived(BinaryMessageHandler.java:49) [classes/:na]
+	at org.jboss.netty.channel.SimpleChannelHandler.handleUpstream(SimpleChannelHandler.java:88) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelUpstreamEventRunnable.doRun(ChannelUpstreamEventRunnable.java:43) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelEventRunnable.run(ChannelEventRunnable.java:67) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.OrderedMemoryAwareThreadPoolExecutor$ChildExecutor.run(OrderedMemoryAwareThreadPoolExecutor.java:314) [netty-3.6.6.Final.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.7.0_71]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.7.0_71]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+Caused by: java.lang.NullPointerException: null
+	at com.mogujie.ares.extend.action.UserAction.bulidBuffer(UserAction.java:237) ~[classes/:na]
+	at com.mogujie.ares.extend.action.UserAction.addAndDelFriend(UserAction.java:166) ~[classes/:na]
+	... 16 common frames omitted
+16:31:29.949 [ERROR] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - commandId: 14
+java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.extend.ActionContext.invoke(ActionContext.java:99) ~[classes/:na]
+	at com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher.dispatch(DefaultRequestDispatcher.java:62) ~[classes/:na]
+	at com.mogujie.ares.lib.net.BinaryMessageHandler.messageReceived(BinaryMessageHandler.java:49) [classes/:na]
+	at org.jboss.netty.channel.SimpleChannelHandler.handleUpstream(SimpleChannelHandler.java:88) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelUpstreamEventRunnable.doRun(ChannelUpstreamEventRunnable.java:43) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelEventRunnable.run(ChannelEventRunnable.java:67) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.OrderedMemoryAwareThreadPoolExecutor$ChildExecutor.run(OrderedMemoryAwareThreadPoolExecutor.java:314) [netty-3.6.6.Final.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.7.0_71]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.7.0_71]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+Caused by: java.lang.NullPointerException: null
+	at com.mogujie.ares.extend.action.UserAction.bulidBuffer(UserAction.java:237) ~[classes/:na]
+	at com.mogujie.ares.extend.action.UserAction.addAndDelFriend(UserAction.java:166) ~[classes/:na]
+	... 16 common frames omitted
+16:31:35.255 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:49818 Connected
+16:31:35.273 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+16:31:35.273 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+16:31:35.273 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+16:31:35.289 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:49837 Connected
+16:31:35.289 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+16:31:35.289 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+16:31:35.289 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+16:45:24.788 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+16:45:24.804 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+16:45:24.804 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+16:45:24.897 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:45:25.194 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:45:25.335 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+16:45:30.022 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:51632 Connected
+16:45:30.022 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:51651 Connected
+16:45:30.039 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+16:45:30.039 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+16:45:30.039 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+16:45:30.039 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+16:45:30.039 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+16:45:30.039 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+16:45:30.133 [ERROR] [com.mogujie.ares.model.UserModel] - add friend error with reason :java.sql.SQLException: No value specified for parameter 1
+16:45:30.133 [ERROR] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - commandId: 14
+java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.extend.ActionContext.invoke(ActionContext.java:99) ~[classes/:na]
+	at com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher.dispatch(DefaultRequestDispatcher.java:62) ~[classes/:na]
+	at com.mogujie.ares.lib.net.BinaryMessageHandler.messageReceived(BinaryMessageHandler.java:49) [classes/:na]
+	at org.jboss.netty.channel.SimpleChannelHandler.handleUpstream(SimpleChannelHandler.java:88) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelUpstreamEventRunnable.doRun(ChannelUpstreamEventRunnable.java:43) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelEventRunnable.run(ChannelEventRunnable.java:67) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.OrderedMemoryAwareThreadPoolExecutor$ChildExecutor.run(OrderedMemoryAwareThreadPoolExecutor.java:314) [netty-3.6.6.Final.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.7.0_71]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.7.0_71]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+Caused by: java.lang.NullPointerException: null
+	at com.mogujie.ares.extend.action.UserAction.bulidBuffer(UserAction.java:237) ~[classes/:na]
+	at com.mogujie.ares.extend.action.UserAction.addAndDelFriend(UserAction.java:166) ~[classes/:na]
+	... 16 common frames omitted
+16:45:30.149 [ERROR] [com.mogujie.ares.model.UserModel] - add friend error with reason :java.sql.SQLException: No value specified for parameter 1
+16:45:30.149 [ERROR] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - commandId: 14
+java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.7.0_71]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.7.0_71]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.7.0_71]
+	at com.mogujie.ares.extend.ActionContext.invoke(ActionContext.java:99) ~[classes/:na]
+	at com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher.dispatch(DefaultRequestDispatcher.java:62) ~[classes/:na]
+	at com.mogujie.ares.lib.net.BinaryMessageHandler.messageReceived(BinaryMessageHandler.java:49) [classes/:na]
+	at org.jboss.netty.channel.SimpleChannelHandler.handleUpstream(SimpleChannelHandler.java:88) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:791) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelUpstreamEventRunnable.doRun(ChannelUpstreamEventRunnable.java:43) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.ChannelEventRunnable.run(ChannelEventRunnable.java:67) [netty-3.6.6.Final.jar:na]
+	at org.jboss.netty.handler.execution.OrderedMemoryAwareThreadPoolExecutor$ChildExecutor.run(OrderedMemoryAwareThreadPoolExecutor.java:314) [netty-3.6.6.Final.jar:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [na:1.7.0_71]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [na:1.7.0_71]
+	at java.lang.Thread.run(Unknown Source) [na:1.7.0_71]
+Caused by: java.lang.NullPointerException: null
+	at com.mogujie.ares.extend.action.UserAction.bulidBuffer(UserAction.java:237) ~[classes/:na]
+	at com.mogujie.ares.extend.action.UserAction.addAndDelFriend(UserAction.java:166) ~[classes/:na]
+	... 16 common frames omitted
+16:46:07.303 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+16:46:07.303 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+16:46:07.303 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+16:46:07.428 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:46:07.741 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:46:07.897 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+16:47:08.077 [INFO] [com.mogujie.ares.configure.Configure] - load /system.properties
+16:47:08.077 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/db-dev.properties
+16:47:08.077 [INFO] [com.mogujie.ares.configure.Configure] - E:\resource\TT\download\TTServer\TTServer\trunk\java/cache-dev.properties
+16:47:08.187 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:47:08.468 [INFO] [com.mogujie.ares.manager.DBManager] - jdbc: jdbc:mysql://127.0.0.1/ttim ,jdbcUsername: root ,jdbcPassword: root
+16:47:08.609 [INFO] [com.mogujie.ares.manager.NetworkManager] - server started on port 11000
+16:47:12.502 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:51944 Connected
+16:47:12.519 [INFO] [com.mogujie.ares.lib.net.BinaryMessageHandler] - [LoggerFilter:Connection-Keep-alive] client /127.0.0.1:51963 Connected
+16:47:12.519 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+16:47:12.519 [INFO] [com.mogujie.ares.lib.net.FrameBinaryDecoder] - 数据包长度:23
+16:47:12.519 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+16:47:12.519 [INFO] [com.mogujie.ares.extend.dispatch.DefaultRequestDispatcher] - 请求访问的模块commandID:14
+16:47:12.519 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+16:47:12.519 [INFO] [com.mogujie.ares.extend.action.UserAction] - add or del user
+16:47:12.628 [INFO] [com.mogujie.ares.model.UserModel] - user:2
+16:47:12.628 [INFO] [com.mogujie.ares.model.UserModel] - user:2
